@@ -23,7 +23,7 @@
 
 [2.https://www.sciencenews.org/(极力推荐)](https://www.sciencenews.org/)
 
-![Science news](./assets/Science news.png)
+![Science news](./assets/Sciencenews.png)
 
 以通俗易懂的方式解释科学信息,在考察非专业背景学生对学术文章理解能力的目标一致
 

@@ -1,3 +1,7 @@
+# 打包方式:pip install pyinstaller
+# cd F:\desktop\Work\_GitHub\TOEFL_CET6
+# pyinstaller -F -w 狗都不背.py
+
 import os
 import time
 import subprocess
@@ -8,6 +12,7 @@ exe_paths = [
     r"F:\desktop\Work\_GitHub\TOEFL_CET6",                # 文件夹
     r"F:\desktop\Work\_GitHub\TOEFL_CET6\新东方TOEFL乱序版.pdf", # PDF
     r"F:\desktop\Work\_GitHub\TOEFL_CET6\Words list.py",   # Python 脚本
+    r"D:\WebStorm 2025.2\bin\webstorm64.exe",               # exe
     "https://www.youdao.com/"                             # 网站
 ]
 

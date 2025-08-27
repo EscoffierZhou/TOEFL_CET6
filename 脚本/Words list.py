@@ -10,7 +10,7 @@ def create_html_word_row():
     sys.stdin.reconfigure(encoding="utf-8")
     sys.stdout.reconfigure(encoding="utf-8")
 
-    print("--- HTML单词行生成器 ---")
+    print("--- HTML单mighty词行生成器 ---")
     print("输入 'q' 并回车即可随时退出程序。")
     print("-" * 25)
     sys.stdout.flush()
